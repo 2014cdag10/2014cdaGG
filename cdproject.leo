@@ -106,65 +106,13 @@
 </v>
 <v t="course-mde-tw.20140417093332.2047" a="E"><vh>分組協同報告區</vh>
 <v t="course-mde-tw.20140417093332.2048" a="E"><vh>@path wsgi/doc</vh>
-<v t="course-mde-tw.20140417093332.2049" a="E"><vh>@path 2ag1</vh>
-<v t="course-mde-tw.20140417093332.2050"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014pythonE.20140527204722.2508" a="E"><vh>@path 2ag2</vh>
-<v t="2014pythonE.20140527204722.2509"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014pythonE.20140429104126.1755" a="E"><vh>@path 2ag3</vh>
-<v t="course-mde-tw.20140417093332.2052"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014spring.20140506161101.1960" a="E"><vh>@path 2ag4</vh>
-<v t="2014spring.20140506161101.1961"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="kmolII_lite.20140430001511.1599" a="E"><vh>@path 2ag5</vh>
-<v t="kmolII_lite.20140430001511.1600"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014spring.20140506161101.1964" a="E"><vh>@path 2ag6</vh>
-<v t="2014spring.20140506161101.1965"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014pythonE.20140429160432.1843" a="E"><vh>@path 2ag7</vh>
-<v t="2014pythonE.20140429160432.1844"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014pythonE.20140520234454.1952" a="E"><vh>@path 2ag8</vh>
-<v t="2014pythonE.20140520234454.1953"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014pythonE.20140512203125.1905" a="E"><vh>@path 2ag9</vh>
-<v t="2014pythonE.20140512203125.1906"><vh>@edit doc.txt</vh></v>
-</v>
 <v t="2014spring.20140506161101.1968" a="E"><vh>@path 2ag10</vh>
 <v t="2014spring.20140506161101.1969"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014spring.20140506161101.1972" a="E"><vh>@path 2ag11</vh>
-<v t="2014spring.20140506161101.1973"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014spring.20140506161101.1976" a="E"><vh>@path 2ag12</vh>
-<v t="2014spring.20140506161101.1977"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014spring.20140506161101.1956" a="E"><vh>@path 2ag13</vh>
-<v t="2014spring.20140506161101.1957"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014spring.20140506161101.1980" a="E"><vh>@path 2ag14</vh>
-<v t="2014spring.20140506161101.1981"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014pythonE.20140429160432.1847" a="E"><vh>@path 2ag16</vh>
-<v t="2014pythonE.20140429160432.1848"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014spring.20140506161101.1984" a="E"><vh>@path 2ag17</vh>
-<v t="2014spring.20140506161101.1985"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="123.20140502221015.1628" a="E"><vh>@path 2ag21</vh>
-<v t="123.20140502221015.1630"><vh>@edit doc.txt</vh></v>
-</v>
-<v t="2014pythonE.20140424070658.1679" a="E"><vh>@path coursemdetw</vh>
-<v t="2014pythonE.20140424070658.1680"><vh>@auto doc.txt</vh></v>
 </v>
 </v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="123.20140502221015.1628"></t>
 <t tx="2014pythonE.20140422152422.1669">配合 2014cda 專案
 
 2014cdaproject@gmail.com
@@ -186,15 +134,8 @@ couorsemdetw on Github 使用 course@mde.tw 登記
 course-mde-tw 為協同人員
 
 </t>
-<t tx="2014pythonE.20140424070658.1679"></t>
-<t tx="2014pythonE.20140429104126.1755"></t>
-<t tx="2014pythonE.20140429160432.1843"></t>
-<t tx="2014pythonE.20140429160432.1847"></t>
-<t tx="2014pythonE.20140512203125.1905"></t>
 <t tx="2014pythonE.20140520190326.1947"></t>
-<t tx="2014pythonE.20140520234454.1952"></t>
 <t tx="2014pythonE.20140520234911.1956"></t>
-<t tx="2014pythonE.20140527204722.2508"></t>
 <t tx="2014spring.20140430165707.2063">0. 請各組閱讀
 
 https://wiki.mde.tw/doku.php?id=%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88:2014s_week10
@@ -736,14 +677,7 @@ asmcomp.SetConstraints (constrs, void null);
   assembly.Regenerate (void null);
   session.GetModelWindow (assembly).Repaint();
 &lt;/script&gt;</t>
-<t tx="2014spring.20140506161101.1956"></t>
-<t tx="2014spring.20140506161101.1960"></t>
-<t tx="2014spring.20140506161101.1964"></t>
 <t tx="2014spring.20140506161101.1968"></t>
-<t tx="2014spring.20140506161101.1972"></t>
-<t tx="2014spring.20140506161101.1976"></t>
-<t tx="2014spring.20140506161101.1980"></t>
-<t tx="2014spring.20140506161101.1984"></t>
 <t tx="2014spring.20140506174436.1831"></t>
 <t tx="2014spring.20140508134612.2129">總結目前所完成的相關配置與任務
 
@@ -935,7 +869,6 @@ doc
     2ag2
         doc.txt</t>
 <t tx="course-mde-tw.20140417093332.2048"></t>
-<t tx="course-mde-tw.20140417093332.2049"></t>
 <t tx="course-mde-tw.20140417093332.2058">@language latex
 
 % 中文內容設定
@@ -995,7 +928,6 @@ Github 倉儲則為: https://github.com/coursemdetw/2014cda
 
 並且將 Github 倉儲與各組可以控制的 OpenShift 網站同步</t>
 <t tx="course-mde-tw.20140422221207.1747">mathspec.sty 檔案必須放在 pandoc 目錄中, 與文書處理原始檔案放在一起.</t>
-<t tx="kmolII_lite.20140430001511.1599"></t>
 <t tx="kmolII_lite.20140513162816.2130"></t>
 <t tx="kmolII_lite.20140519204745.1773"></t>
 <t tx="kmolII_lite.20140519210900.2176"></t>
